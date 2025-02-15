@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 <h5 align="center"><b>DataBases</b></h5>
 <p align="center">
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+	<a href="https://www.oracle.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</a>
 </p>
 <h5 align="center"><b>Tools</b></h5>
 <p align="center">
