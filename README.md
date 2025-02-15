@@ -29,6 +29,13 @@ Here are some ideas to get you started:
 ✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`.
 <br><br><br>
 
+[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Followers&style=social)](https://github.com/tu_usuario)
+[![GitHub stars](https://img.shields.io/github/stars/tu_usuario?label=Stars&style=social)](https://github.com/tu_usuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://tu_portfolio.com)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/tu_usuario)
+[![Atcoder Profile](https://img.shields.io/badge/Atcoder-Profile-blue)](https://atcoder.jp/users/tu_usuario)
+
+
 ##  💻 Programming Languages ​​to Master
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
