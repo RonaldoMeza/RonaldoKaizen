@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <picture align="center"> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" align="right" top="200" width="250"></picture>
 
 <!--About Me-->
-### <b>About me</b> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> 
+### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>  <b>About Me</b>
 
 - 🎓 **Student** at [Tecsup Institute](https://www.tecsup.edu.pe/).  
 - 💻 **Pre-professional** in **Software Design and Development**, with hands-on experience in building scalable and efficient software solutions.  
