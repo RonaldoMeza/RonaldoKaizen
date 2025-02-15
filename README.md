@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ✔ Pre-professional in [Software](https://concepto.de/software/) Design and Development. <br>
 ✔ :technologist: I love using Software as a solution for every `Problem`. <br>
 ✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`. <br>
-✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`.
+✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`. <br>
 ✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`.
 <br><br><br>
 
