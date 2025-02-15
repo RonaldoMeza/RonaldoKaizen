@@ -37,12 +37,16 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ###  💻 Connect with Me! 🤝
+
 <a href="https://www.linkedin.com/in/ronaldo-meza-pastrana/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-meza-pastrana/)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tu_usuario)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tu_usuario/)  
 
-
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <!--
 [![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Followers&style=social)](https://github.com/tu_usuario)
 [![GitHub stars](https://img.shields.io/github/stars/tu_usuario?label=Stars&style=social)](https://github.com/tu_usuario)
