@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <h5 align="center"><b>DataBases</b></h5>
 <p align="center">
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+	<!-- Oracle -->
 	<a href="https://www.oracle.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </a>
@@ -53,7 +54,19 @@ Here are some ideas to get you started:
 <h5 align="center"><b>Tools</b></h5>
 <p align="center">
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-	<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+	<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+	<!-- VS Code -->
+	<a href="https://code.visualstudio.com/" target="_blank">
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+	</a>
+	<!-- Visual Studio -->
+	<a href="https://visualstudio.microsoft.com/" target="_blank">
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
+	</a>
+	<!-- IntelliJ IDEA -->
+	<a href="https://www.jetbrains.com/idea/" target="_blank">
+	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/>
+	</a>
 </p>
 
 
