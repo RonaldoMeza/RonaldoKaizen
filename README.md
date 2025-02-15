@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://lenguajehtml.com/html/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle&logoColor=white)
 <br><br><br>
 
 ###  💻 Connect with Me! 🤝
