@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
+<br><br>
 <h2 align="center">Connect with Me! 🤝 </h2> 
 <h5 align="center"><b>Languages</b></h5>
 <p align="center">
@@ -96,7 +97,7 @@ Here are some ideas to get you started:
 	</a>
 </p>
 
-
+<br><br>
 ## 🐍 A Snake Eating my Contributions Graph
 -------____	
 <p align = "center">
