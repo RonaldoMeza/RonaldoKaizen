@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<h2>💻 Programming Languages</h2> 
+<h2>💻 Programming Languages and Tools</h2> 
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=c%2B%2B&logoColor=white)
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://lenguajehtml.com/html/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle&logoColor=white)
 <br><br><br>
 
