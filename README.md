@@ -77,22 +77,21 @@ Here are some ideas to get you started:
 
 <br><br>
 <h2 align="center">Connect with Me! 🤝 </h2> 
-<h5 align="center"><b>Languages</b></h5>
 <p align="center">
 	<!-- LinkedIn -->
-	<a href="https://www.linkedin.com/" target="_blank">
+	<a href="https://www.linkedin.com/in/ronaldo-meza-pastrana/" target="_blank">
 	  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
 	</a>
 	<!-- Facebook -->
-	<a href="https://www.facebook.com/" target="_blank">
+	<a href="https://www.facebook.com/ronaldo.netkaizen" target="_blank">
 	  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="facebook" />
 	</a>
 	<!-- Instagram -->
-	<a href="https://www.instagram.com/" target="_blank">
+	<a href="https://www.instagram.com/ronaldokaizen0512/" target="_blank">
 	  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" />
 	</a>
 	<!-- YouTube -->
-	<a href="https://www.youtube.com/" target="_blank">
+	<a href="https://www.youtube.com/@DevRNK_0512" target="_blank">
 	  <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="youtube" />
 	</a>
 </p>
