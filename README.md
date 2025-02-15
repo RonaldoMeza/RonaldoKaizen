@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h2>💻 Programming Languages</h2> 
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
