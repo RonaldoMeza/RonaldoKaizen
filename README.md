@@ -1,8 +1,6 @@
 <!--
 **RonaldoKaizen/RonaldoKaizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,20 +19,13 @@ Here are some ideas to get you started:
 <b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me</b> 
 
 <!--Info About Me-->
-✔ I'm a Student at the <a target="_blank" href="https://www.tecsup.edu.pe/">Tecsup</a> Institute. <br>
-✔ Pre-professional in Software Design and Development. <br>
-✔ :technologist: I love using Software as a solution for every `Problem`. <br>
-✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`. <br>
-✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`. <br>
-✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`.
+- 🎓 **Student** at [Tecsup Institute](https://www.tecsup.edu.pe/).  
+- 💻 **Pre-professional** in **Software Design and Development**.  
+- 🤖 **Passionate** about leveraging software as a solution for challenging problems.  
+- 🖥️ **Competitive Programmer** at platforms like `Codeforces` and `Atcoder`.  
+- 🚀 Continuously learning and improving my skills in **programming**, **problem-solving**, and **technology**.
+
 <br><br><br>
-
-[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Followers&style=social)](https://github.com/tu_usuario)
-[![GitHub stars](https://img.shields.io/github/stars/tu_usuario?label=Stars&style=social)](https://github.com/tu_usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://tu_portfolio.com)
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/tu_usuario)
-[![Atcoder Profile](https://img.shields.io/badge/Atcoder-Profile-blue)](https://atcoder.jp/users/tu_usuario)
-
 
 ##  💻 Programming Languages ​​to Master
 
@@ -53,5 +44,11 @@ Here are some ideas to get you started:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
-
+<!--
+[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Followers&style=social)](https://github.com/tu_usuario)
+[![GitHub stars](https://img.shields.io/github/stars/tu_usuario?label=Stars&style=social)](https://github.com/tu_usuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://tu_portfolio.com)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/tu_usuario)
+[![Atcoder Profile](https://img.shields.io/badge/Atcoder-Profile-blue)](https://atcoder.jp/users/tu_usuario)
+-->
 
