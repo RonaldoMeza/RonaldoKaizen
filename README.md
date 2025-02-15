@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me</b> 
 
 <!--Img-->
-<picture align="center"> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" align="right" top="500" height="300" width="400"></picture>
+<picture align="center"> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" align="right" top="200" width="250"></picture>
 
 <!--Info About Me-->
 ✔ I'm a Student at the <a target="_blank" href="https://www.tecsup.edu.pe/">Tecsup</a> Institute.<br>
