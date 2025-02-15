@@ -19,11 +19,22 @@ Here are some ideas to get you started:
 <b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me</b> 
 
 <!--Info About Me-->
-- 🎓 **Student** at [Tecsup Institute](https://www.tecsup.edu.pe/).  
-- 💻 **Pre-professional** in **Software Design and Development**.  
-- 🤖 **Passionate** about leveraging software as a solution for challenging problems.  
-- 🖥️ **Competitive Programmer** at platforms like `Codeforces` and `Atcoder`.  
-- 🚀 Continuously learning and improving my skills in **programming**, **problem-solving**, and **technology**.
+## About Me  
+
+- 🎓 **Student** at <a href="https://www.tecsup.edu.pe/" target="_blank">Tecsup Institute</a>.  
+- 💻 **Pre-professional** in **Software Design and Development**, with hands-on experience in building scalable and efficient software solutions.  
+- 🤝 Skilled in **team collaboration**, **problem-solving**, and **project management** using Agile methodologies.  
+- 🚀 Passionate about **learning new technologies**, exploring **competitive programming**, and solving real-world problems through software innovation.  
+- 🌐 Currently expanding my expertise in **web development**, **database management**, and **cloud computing**.  
+
+---
+
+### Connect with Me  
+[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Followers&style=social)](https://github.com/tu_usuario)  
+[![GitHub stars](https://img.shields.io/github/stars/tu_usuario?label=Stars&style=social)](https://github.com/tu_usuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tu_usuario)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://tu_portfolio.com)  
+
 
 <br><br><br>
 
