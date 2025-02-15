@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RonaldoKaizen/RonaldoKaizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 240px></picture>
 
-<br><br>
+<br>
 
 ✔ I'm a Student at the <a target="_blank" href="https://www.tecsup.edu.pe/">Tecsup</a> Institute.<br>
 ✔ Pre-professional in [Software](https://concepto.de/software/) Design and Development.<br>
@@ -39,7 +37,8 @@ Here are some ideas to get you started:
 
 ##  💻 Programming Languages ​​to Master
 
-<br><br>
+<br>
+
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
