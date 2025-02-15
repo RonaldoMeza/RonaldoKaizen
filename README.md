@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 <b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me</b> 
 
 <!--Info About Me-->
-✔ I'm a Student at the <a target="_blank" href="https://www.tecsup.edu.pe/">Tecsup</a> Institute.<br>
-✔ Pre-professional in [Software](https://concepto.de/software/) Design and Development.<br>
+✔ I'm a Student at the <a target="_blank" href="https://www.tecsup.edu.pe/">Tecsup</a> Institute. <br>
+✔ Pre-professional in [Software](https://concepto.de/software/) Design and Development. <br>
 ✔ :technologist: I love using Software as a solution for every `Problem`. <br>
-✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`.<br>
-<br><br><br><br><br>
+✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`. <br>
+✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`.
+✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`.
+<br><br><br>
 
 ##  💻 Programming Languages ​​to Master
 <br>
