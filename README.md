@@ -18,16 +18,12 @@ Here are some ideas to get you started:
 <!--About Me-->
 <b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me</b> 
 
-<!--Info About Me-->
-## About Me  
-
 - 🎓 **Student** at <a href="https://www.tecsup.edu.pe/" target="_blank">Tecsup Institute</a>.  
 - 💻 **Pre-professional** in **Software Design and Development**, with hands-on experience in building scalable and efficient software solutions.  
 - 🤝 Skilled in **team collaboration**, **problem-solving**, and **project management** using Agile methodologies.  
-- 🚀 Passionate about **learning new technologies**, exploring **competitive programming**, and solving real-world problems through software innovation.  
-- 🌐 Currently expanding my expertise in **web development**, **database management**, and **cloud computing**.  
+- 🚀 Passionate about **learning new technologies**, exploring **competitive programming**, and solving real-world problems through software innovation. 
 
----
+
 
 ### Connect with Me  
 [![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Followers&style=social)](https://github.com/tu_usuario)  
