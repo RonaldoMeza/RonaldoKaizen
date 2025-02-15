@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--About Me-->
 ### <b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me</b> 
 
-- 🎓 **Student** at <a href="https://www.tecsup.edu.pe/" target="_blank">Tecsup Institute</a>.  
+- 🎓 **Student** at [Tecsup Institute](https://www.tecsup.edu.pe/).  
 - 💻 **Pre-professional** in **Software Design and Development**, with hands-on experience in building scalable and efficient software solutions.  
 - 🤝 Skilled in **team collaboration**, **problem-solving**, and **project management** using Agile methodologies.  
 - 🚀 Passionate about **learning new technologies**, exploring **competitive programming**, and solving real-world problems through software innovation. 
