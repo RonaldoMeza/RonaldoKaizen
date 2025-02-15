@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<h2>💻 Skills/h2> 
+<h2>💻 Skills</h2> 
 
 <p align="center">
 	<h5><b>Languages</b></h5>
