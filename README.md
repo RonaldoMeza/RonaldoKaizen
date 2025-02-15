@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"><b> ¡Hi, I'm Ronaldo Meza! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 <br><br>
-<!--About Me-->
-<b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me</b> 
-
 <!--Img-->
 <picture align="center"> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" align="right" top="200" width="250"></picture>
+
+<!--About Me-->
+<b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me</b> 
 
 <!--Info About Me-->
 ✔ I'm a Student at the <a target="_blank" href="https://www.tecsup.edu.pe/">Tecsup</a> Institute.<br>
