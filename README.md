@@ -24,17 +24,9 @@ Here are some ideas to get you started:
 - 🚀 Passionate about **learning new technologies**, exploring **competitive programming**, and solving real-world problems through software innovation. 
 
 
-
-### Connect with Me  
-[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Followers&style=social)](https://github.com/tu_usuario)  
-[![GitHub stars](https://img.shields.io/github/stars/tu_usuario?label=Stars&style=social)](https://github.com/tu_usuario)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tu_usuario)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://tu_portfolio.com)  
-
-
 <br><br><br>
 
-##  💻 Programming Languages ​​to Master
+###  💻 Programming Languages ​​to Master
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
@@ -45,7 +37,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br><br><br>
 
-##  💻 Contact with me! 🤝
+###  💻 Connect with Me! 🤝
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
