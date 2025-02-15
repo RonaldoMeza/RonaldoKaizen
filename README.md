@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <picture align="center"> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" align="right" top="200" width="250"></picture>
 
 <!--About Me-->
-### <b><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me</b> 
+### <b>About me</b> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> 
 
 - 🎓 **Student** at [Tecsup Institute](https://www.tecsup.edu.pe/).  
 - 💻 **Pre-professional** in **Software Design and Development**, with hands-on experience in building scalable and efficient software solutions.  
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<h2 align="center">💻 Skills</h2> 
+<h2 align="center">Skills 💻 </h2> 
 <h5 align="center"><b>Languages</b></h5>
 <p align="center">
 	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/><sup>aea</sup> </a>
