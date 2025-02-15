@@ -12,18 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><b>¡Hi, I'm Ronaldo Meza welcome to my GitHub! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
+<h1 align="center"><b> ¡Hi, I'm Ronaldo Meza! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 
+<!--About Me-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 
+<!--Img-->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 240px></picture>
-<br>
 
+<!--Info About Me-->
 ✔ I'm a Student at the <a target="_blank" href="https://www.tecsup.edu.pe/">Tecsup</a> Institute.<br>
 ✔ Pre-professional in [Software](https://concepto.de/software/) Design and Development.<br>
 ✔ :technologist: I love using Software as a solution for every `Problem`. <br>
 ✔ :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-<br>
+<br><br>
 
 ##  💻 Programming Languages ​​to Master
 <br>
