@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 <h5 align="center"><b>BackEnd</b></h5>
 <p align="center">
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
+	<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/django/092E20" alt="django" width="40" height="40"/>
+</a>
   <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a>
 </p>
 
